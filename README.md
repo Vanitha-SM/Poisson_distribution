@@ -70,7 +70,8 @@ else:
  
 ```
 # Output : 
-![image](https://github.com/Vanitha-SM/Poisson_distribution/assets/119557985/12b28c9a-c47b-4ac1-b57f-a93892559949)
+
+![image](https://github.com/Vanitha-SM/Poisson_distribution/assets/119557985/3e12aeb3-2433-4da1-b640-4bf172c7a21d)
 
 # Results
 
